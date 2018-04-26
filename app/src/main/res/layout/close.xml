@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:src="@drawable/water_saver"
+        android:background="#1f2441"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:scaleType="center"
+        android:contentDescription="@string/app_name"/>
+    <TextView
+        android:textAlignment="center"
+        android:background="#1f2441"
+        android:layout_width="match_parent"
+        android:textColor="#ffffff"
+        android:text="Water_Saver"
+        android:textSize="20sp"
+        android:id="@+id/close_water"
+        android:layout_height="match_parent" />
+</LinearLayout>
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:paddingTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TextView
+
+        android:id="@+id/tvclose"
+        android:background="#ffffff"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textColor="#f43232"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Are you sure you want to Close Water_Saver?" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

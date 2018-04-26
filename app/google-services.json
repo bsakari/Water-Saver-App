@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "120646923916",
+    "firebase_url": "https://water-saver-111df.firebaseio.com",
+    "project_id": "water-saver-111df",
+    "storage_bucket": "water-saver-111df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120646923916:android:77060a1928f2f42a",
+        "android_client_info": {
+          "package_name": "com.kingwanyama.water_saver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120646923916-1b3shaojkjtaaq5c1ujr9dohe7rn1lem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingwanyama.water_saver",
+            "certificate_hash": "8773212f0ce22766aa8fa51750a3bce684de9fae"
+          }
+        },
+        {
+          "client_id": "120646923916-872gqo7321vamp71tnq12kcv9g8as5j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRCWpQgTvE_jP6jMM6-PBlfOUP6grp1f0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120646923916-872gqo7321vamp71tnq12kcv9g8as5j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
